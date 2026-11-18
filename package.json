@@ -1,0 +1,40 @@
+{
+  "name": "hi-hello-auth",
+  "version": "1.0.0",
+  "description": "Zero-dependency plain JS HMAC-SHA256 handshake token generator & verifier with clock drift tolerance.",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "handshake",
+    "auth",
+    "hmac",
+    "sha256",
+    "totp",
+    "token",
+    "zero-dependency",
+    "authentication",
+    "security"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
+}
+
