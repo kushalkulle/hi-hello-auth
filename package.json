@@ -1,6 +1,6 @@
 {
   "name": "hi-hello-auth",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Zero-dependency plain JS HMAC-SHA256 handshake token generator & verifier with clock drift tolerance.",
   "main": "index.js",
   "module": "index.mjs",

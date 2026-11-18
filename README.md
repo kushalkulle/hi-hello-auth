@@ -84,9 +84,4 @@ if (!isValid) {
 **Throws:**
 - `TypeError`: If any mandatory parameter is missing or invalid.
 
----
-
-## License
-
-[MIT](LICENSE)
 
